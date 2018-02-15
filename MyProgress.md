@@ -1,4 +1,5 @@
-deep3
+mail: deep3
+User: BackUpForMyImportantFiles
 
 # 0. 将来どうなりたいか
 ##0.1. 自分の将来像
