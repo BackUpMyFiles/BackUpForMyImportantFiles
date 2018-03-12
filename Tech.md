@@ -1,9 +1,15 @@
 # 目次
 
-- 1. Mysqlの使い方
+- Database  
+1.1. Mysql
 
-# 1. Mysqlの使い方
-### 1.1. コマンド集
+- Programming Language  
+2.1. Go
+
+
+# 1. Database
+## 1.1. Mysqlの使い方
+### 1.1.1. コマンド集
 1. mysqlにrootユーザーで接続
 => $ mysql -uroot
 
@@ -29,4 +35,19 @@ AUTO INCREMENT の設定をする場合、
 => ALTER TABLE (table name) CHANGE (old column name) (new column name) (column definition);
 ex) ALTER TABLE student CHANGE id student_id NOT NULL;
 
+7. データの追加
+=> INSERT INTO (table name)((col name 1), (col name 2), ...) VALUES ((value1), (value2), ...);
 
+8. データの取得
+全て取得
+=> SELECT * FROM (table name);
+
+9. データの削除
+=> DELETE FROM (table name) WHERE (condition);
+ex) DELETE FROM student WHERE id = 10;
+
+
+# 2. Programming Language
+## 2.1. Go
+### 2.1.1. スライスについて
+・スライスに渡した、部分列の要素は元の配列とメモリが共有される。
