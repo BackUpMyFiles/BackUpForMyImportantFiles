@@ -2,7 +2,8 @@
 
 
 - Database  
-1.1. Mysql
+1.1. データベースの種類(仕組み別)
+1.2. データベースの種類(アプリケーション別)
 
 - Programming Language  
 2.1. Go
@@ -15,8 +16,18 @@
 4.1. netstat
 
 # 1. Database
-## 1.1. Mysqlの使い方
-### 1.1.1. コマンド集
+## 1.1. データベースの種類(仕組み別)
+### 1.1.1. リレーショナルデータベース
+#### INDEX
+B-treeインデックスについて。
+ヘッダーブロック（最上層）、ブランチブロック、リーフブロック（最下層）に分けて管理されていて、
+それぞれ近隣のブロックへのポインターも持っている。
+
+URL: http://www.hi-ho.ne.jp/tsumiki/doc_1.html
+
+## 1.2. データベースの種類(アプリケーション別)
+### 1.2.1. MySQL
+#### コマンド集
 1. mysqlにrootユーザーで接続
 => $ mysql -uroot
 
@@ -90,6 +101,10 @@ Ajaxでは、動的なWebページを作成するときにHTML、XMLのどの要
 
 サンプルコードは以下。
 URL: https://qiita.com/hisamura333/items/e3ea6ae549eb09b7efb9
+
+### 2.2.2. JQuery
+#### 画面の要素の座標を獲得する
+URL: https://lab.syncer.jp/Web/JavaScript/Snippet/10/
 
 
 # 3. Protocol
