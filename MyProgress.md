@@ -161,9 +161,9 @@ Age 29: 運命の相手と結婚(多分？笑)
 ## 3.1. Input
 - Done: 熱力学
 - Done: 材料力学
-- Doing: 流体力学(3月中)
-- Doing: 機械力学(3月中)
-- 制御工学(3月中)
+- Done: 流体力学(3月中)
+- Doing: 機械力学(4月中)
+- 制御工学(4月中)
 - 伝熱工学(6月中)
 - 航空宇宙推進工学?(4-5月中)
 
@@ -199,14 +199,13 @@ Major(Output)
 
 - 3月
 English
-- TOEFLスコア詰め(Score: 60)
+- Done: TOEFLスコア詰め(Score: 60)
 - TOEICスコア詰め(Score: 900)
 Math
 - 常微分
 - 偏微分
 Major(Input)
 - 流体力学
-- 機械力学
 - 制御工学スタート
 Major(Output)
 - 流体力学3/4
@@ -218,11 +217,12 @@ Major(Output)
 
 - 4月
 English
-- TOEFLスコア詰め(Score: 75)
+- Done: TOEFLスコア詰め(Score: 75)
 Math
 - ラプラス変換
 - フーリエ変換
 Major(Input)
+- 機械力学
 - 制御工学
 - 推進工学
 
@@ -230,7 +230,7 @@ Major(Input)
 
 - 5月
 English
-- TOEFLスコア詰め(Score: 85)
+- TOEFLスコア詰め(Score: 90)
 Math
 - 確率論
 - ひたすらOutput
