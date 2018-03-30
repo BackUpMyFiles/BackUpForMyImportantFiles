@@ -12,6 +12,7 @@
 
 - Linux Command
 4.1. netstat
+4.2. find
 
 - Git
 5.1. Gitの仕組み
@@ -199,6 +200,13 @@ ESTABLISHED ... 接続
 CLOSE_WAIT ... 切断中
 
 を示す。
+
+## 4.2. find
+現在いるディレクトリより下からファイルを探す。
+
+```
+$ find / -name (File Name)
+```
 
 
 # 5. Git
@@ -414,6 +422,14 @@ $ git merge (ブランチ名)
 ## 6.1. Cache
 Cacheとは、主にWebブラウザなどで一度見たページの動画や画像をローカルPC上のキャッシュメモリの上に保存しておくことで
 二回目以降に閲覧したときに読み込みを早くする機能。
+
+Macでは、以下のパスにGoogle Chromeのキャッシュが保存されている。
+~/Library/Caches/com.google.chrome
+
+また、chrome://view-http-cache/とGoogle Chromeに打ち込むとCacheが確認できる。
+
+Q: Cacheを用いてほしい画像や動画を持ってこれないか？
+=> A: 
 
 ## 6.2. Cookie
 Cookieとは、主にWebブラウザなどでページを見たとき、ユーザーの情報をローカルPC上に保存しておく機能。

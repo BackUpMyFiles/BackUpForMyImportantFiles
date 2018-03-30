@@ -37,6 +37,11 @@ Memo: 共同研究がとても良い。テーマ的にも将来の航空宇宙�
 URL: http://control.kuaero.kyoto-u.ac.jp/
 Memo: 情報が少ない。ただ、研究テーマ的にはジャストな気がする。宇宙ロボットの制御。
 
+・推進工学系研究室
+江利口研究室
+URL: http://www.propulsion.kuaero.kyoto-u.ac.jp/
+Memo: 自分が今までやってきたのとはだいぶ違う。4力使わなそう。プラヅマの解析による推進の研究。
+
 機械理工(メカトロニクス)
 松野研究室
 URL: http://www.mechatronics.me.kyoto-u.ac.jp/
@@ -59,6 +64,10 @@ Memo: 人工知能を宇宙系に応用。人工知能も研究できるし面�
 機械(https://educ.titech.ac.jp/mech/faculty/research_lab/)
 
 システム制御(https://educ.titech.ac.jp/sc/faculty/research_lab/)
+
+- MIT
+Addmission Policy
+URL: http://aeroastro.mit.edu/admissions/graduate-admissions/admission-criteria
 
 ## 0.3. Tips
 - 東京工業大学
