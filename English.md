@@ -75,3 +75,16 @@ Coffee is something to get me through the day.
 
 We are very much into coffee.
 コーヒーにはまっている
+
+Turn a blind eye to ~
+~を見て見ぬふりをする
+
+Is there any way to turn this around?
+これの向きを変える方法はある？
+
+That's when the self-doubt and despair start to creep in.
+
+These are straight from my own experience.
+
+Do the dishes.
+= Wash the dishes
