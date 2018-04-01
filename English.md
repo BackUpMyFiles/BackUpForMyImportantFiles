@@ -88,3 +88,5 @@ These are straight from my own experience.
 
 Do the dishes.
 = Wash the dishes
+
+Talk something over = Discuss something with someone
