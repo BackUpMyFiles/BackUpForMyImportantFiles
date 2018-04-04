@@ -90,3 +90,47 @@ Do the dishes.
 = Wash the dishes
 
 Talk something over = Discuss something with someone
+
+Were you always big fan of Helloween?
+
+My friend is always full of wonderful advise.
+
+He had been watched with anticipation and apprehension.
+anticipation = a feeling of excitement about something that is going to happen in the near future
+apprehension = worry about the future
+
+to date = until now
+
+procurement = action of obtaining and producing something
+
+simultaneous = occuring, operating or done at the same time
+
+We will explain to Congress that they call experiments ‘experiments’ for a reason.
+for a reason = 事情があって
+
+If you have an adversary that is innovating rapidly
+adversary = 相手、反対する人
+
+While everyone agrees that the Pentagon and the defense industry have to be more agile and build more resilient space systems, it is not clear that the government has set the conditions to make that happen, experts caution.
+agile = 機敏な、頭の回転の早い(アジャイル)
+
+daunting task = 気を挫くような大変な仕事
+
+aquisition = aquireの動名詞
+aquire = 獲得する
+
+it remains to be seen how much leeway lawmakers will give.
+leeway = freedom to act within paticular limits.
+
+How can we forecast, prevent, and (when necessary) mitigate the harmful effects of malicious uses of AI?
+mitigate = "make something less harmful, unpleasant or bad"
+
+The report, which is the result of a two-day workshop in Oxford, UK followed by months of research, provides a sweeping landscape of the security implications of artificial intelligence.
+sweeping = "affecting many things or people"
+
+As reporter Dave Gershgorn put it, “Every AI advance by the good guys is an advance for the bad guys, too.”
+put = "to say something"
+
+anonymity = "the situation in which someone's name is not given or known"
+
+autonomous = "independent and having the power to make your own decisions"
