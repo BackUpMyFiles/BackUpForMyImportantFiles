@@ -28,19 +28,27 @@ User: BackUpForMyImportantFiles
 ### つまりどういうこと?
 必要な能力
 ・論理的思考力
-=> Disの力とかの本質を見る力
+=> Disの力とかの本質を見る力。また、相手の思考をたどるリバースシンキング能力
 beginner
-・デザイン能力
+
+・芸術的センス
 => センス大事
 beginner
-・爆発的発想力
+
+(・爆発的発想力
 => 面白いものを知っているか、発案できるか
 intermediate
+芸術的センスに統合される
+)
+
 ・技術力
 => アイディアを形にできるか
 intermediate
+
 ・熱意
 => やりたいことを見つける
+
+
 
 やりたいこと
 ・本当にやりたいことが欲しい
@@ -220,7 +228,7 @@ Age 29: 運命の相手と結婚(多分？笑)
 English
 
 Math
-- 複素関数
+
 Major(Input)
 - 流体力学12章まで
 - Done: 機械力学スタート
@@ -237,7 +245,6 @@ English
 - TOEICスコア詰め(Score: 900)
 Math
 - 常微分
-- 偏微分
 Major(Input)
 - 流体力学
 - 制御工学スタート
@@ -253,6 +260,8 @@ Major(Output)
 English
 - Done: TOEFLスコア詰め(Score: 75)
 Math
+- 複素数
+- 偏微分
 - ラプラス変換
 - フーリエ変換
 Major(Input)

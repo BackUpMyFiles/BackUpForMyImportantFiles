@@ -134,3 +134,32 @@ put = "to say something"
 anonymity = "the situation in which someone's name is not given or known"
 
 autonomous = "independent and having the power to make your own decisions"
+
+Ain't no need to hold it back
+hold back = 控える
+
+You don't get it! = 空気が読めないね!
+get it = 理解する
+
+Opponents put forward.
+put forward = 提唱する
+
+It balances out rural and urban regions.
+balance out = 釣り合う、釣り合わせる
+
+It contributes to national cohesion.
+cohesion = "the situation when the member of the group are united"
+
+One critic denounced it as portraying a drunken prostitute.
+denounce = "critisize something or someone strongly and publicly"
+prostitute = "a person who has sex with someone for money"
+
+One important Norwegian precedent for the depiction of a dissolute woman would undoubtedly have been known to Munch, Hans Heyerdahl's tiny, exquisite painting of The Champagne Girl, which was also strongly attacked when exhibited.
+precedent = "an action, situation, and decision that is already happened and can be used as a reason why similar action or decision should be made or performed."
+depiction = "the way that something is shown or represented"
+dissolute = ""
+
+Until his late years Munch never showed any interest in still-life painting for its own sake, but he sometimes introduced it into subject pictures, giving it, as in this case, the status of a separate image, a material correlate of the human situation portrayed.
+
+Againts the dollar, IOTA is in a falling wedge pattern and could be due for a breakout soon.
+due for = "needing, requireing, or expecting something to happen"
