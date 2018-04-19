@@ -163,3 +163,26 @@ Until his late years Munch never showed any interest in still-life painting for 
 
 Againts the dollar, IOTA is in a falling wedge pattern and could be due for a breakout soon.
 due for = "needing, requireing, or expecting something to happen"
+
+The prevailing practive is to keep children in a separate bedroom.
+prevail = "普及する、広がる、優勢である", prove more powerful or superior.
+prevail on = persuade someone to do something.
+
+She was prevailed on to give an account of her work.
+give an account of = explain
+
+ It did not disclose how much funding it was providing for the satellite.
+ disclose = make something open to public
+
+The bulk of the exports coming from foreign invested enterprises strengthen the point that China is an attractive place for business activities.
+the bulk of ~ = a lot of ~
+strengthen the point that ~ = ~ をより確かなものにしている
+
+One of the main alluring factors is the low cost of labor.
+allure = being atractive
+
+profits would be enlarged
+enlarged
+
+IoT has been facilitating the growth of this decade’s tech startups.
+facilitate = to make something possible and easier
