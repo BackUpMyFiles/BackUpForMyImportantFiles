@@ -171,8 +171,8 @@ prevail on = persuade someone to do something.
 She was prevailed on to give an account of her work.
 give an account of = explain
 
- It did not disclose how much funding it was providing for the satellite.
- disclose = make something open to public
+It did not disclose how much funding it was providing for the satellite.
+disclose = make something open to public
 
 The bulk of the exports coming from foreign invested enterprises strengthen the point that China is an attractive place for business activities.
 the bulk of ~ = a lot of ~
@@ -186,3 +186,40 @@ enlarged
 
 IoT has been facilitating the growth of this decade’s tech startups.
 facilitate = to make something possible and easier
+
+a fund anchored by Godrej Agrovet Limited and investment patrons include a large group of IIT alumni.
+anchor = work as a anchor(アンカー、錨)
+patron = a person or group that supports an activity or organization, especially by giving money
+alumnus(alamni is plural form) = someone who has left a school, college, or university after finishing their studies there
+
+Please use the bath room keeping the door closed in order to avoid mis-operating of the fire alarm.
+
+The government hopes to sue the petro as a vehicle for circumventing the stifling U.S. sanctions that have made the country unable to trade with other countries and address its rising debt profile.
+to take legal action against a person or organization, especially by making a legal claim for money because of some harm that they have caused you
+
+That duration is about half a typical mission duty cycle for the engine.
+duration = "the time during something continues"
+
+Blue Origin has been making updates to the vehicle, he said, intended primarily to improve operability rather than performance or reliability.
+intend = "to have a plan or purpose"
+
+stay in shape = "keep a good figure"
+
+Take pride in your clothing.
+
+While cockiness is never a good thing, knowing that you've got good qualities will make you much better at marketing yourself.
+cocky = "used to describe a young person who is confident in a way that is unpleasant and sometimes rude"
+
+Keep all your friendships slightly flirty to avoid falling into the friend zone.
+flirt = "to behave as if sexually attracted to someone, although not seriously"
+
+the use of remarks that clearly mean the opposite of what they say, made in order to hurt someone's feelings or to criticize something in a humorous way
+sarcastic = "the use of remarks that clearly mean the opposite of what they say, made in order to hurt someone's feelings or to criticize something in a humorous way"
+take great caution
+
+Though a small gesture, it means a lot to a girl and shows her that you're not just looking for a quick hookup.
+hookup(hook up) = "To have any form of intamicy with a member of the prefered sex that you don't consider a significant other."
+
+You will see dramatical results.
+
+Distributed leadership is primarily concerned with the practice of leadership rather than specific leadership roles or responsibilities. It equates with shared, collective and extended leadership practice that builds the capacity for change and improvement.

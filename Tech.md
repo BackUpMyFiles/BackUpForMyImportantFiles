@@ -72,6 +72,10 @@ ex) ALTER TABLE student CHANGE id student_id NOT NULL;
 => DELETE FROM (table name) WHERE (condition);
 ex) DELETE FROM student WHERE id = 10;
 
+### 1.2.2. PostgreSQL
+1. データサーバー起動
+postgres -D /usr/local/var/postgres
+
 
 # 2. Programming Language
 ## 2.1. Go
